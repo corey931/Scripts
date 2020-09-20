@@ -1,0 +1,10 @@
+{
+    "people": [
+        {
+            "name": "Celia",
+            "job": "Crazy",
+            "from": "Island"
+        }
+    ],
+    "hobbies": []
+}
